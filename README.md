@@ -3,7 +3,7 @@
 This is a full-stack web application that generates interview questions using AI. Users can get a list of relevant questions based on the selected topic. The app uses a backend powered by Python (Flask/FastAPI) and integrates with Google's Gemini AI API to generate questions and answers dynamically.
 
 ---
-
+Live Link: https://shimmering-centaur-7781ab.netlify.app
 ## 🚀 Features
 
 - 🔍 Generate interview questions based on a specific topic.
