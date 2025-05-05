@@ -1,4 +1,4 @@
 Flask
 flask-cors
 python-dotenv
-google-genrativeai
+google-genai
